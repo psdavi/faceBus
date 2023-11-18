@@ -1,0 +1,83 @@
+{
+    "versao": "0.1",
+    "passageiros": [
+        {
+            "codigo": "pass001",
+            "nome": "Price",
+            "tipo": "IDOSO",
+            "idade": 99,
+            "sangue": "AB+",
+            "endereco": "Rua dos Pássaros",
+            "fotos": [
+                "faces/faces_cadastradas/Price_classe_Idoso.jpg",
+                "faces/faces_cadastradas/Price_classe_Idoso_2.jpg",
+                "faces/faces_cadastradas/Price_classe_Idoso_3.jpg"
+            ]
+        },
+        {
+            "codigo": "pass002",
+            "nome": "Angela",
+            "tipo": "COMUM",
+            "idade": 23,
+            "sangue": "O+",
+            "endereco": "Rua das Rosas",
+            "fotos": [
+                "faces/faces_cadastradas/Angela_classe_Comum.jpeg",
+                "faces/faces_cadastradas/Angela_classe_Comum_2.jpeg",
+                "faces/faces_cadastradas/Angela_classe_Comum_3.jpeg"
+            ]
+        },
+        {
+            "codigo": "pass003",
+            "nome": "Cirilo",
+            "tipo": "ESTUDANTE",
+            "idade": 10,
+            "sangue": "O+",
+            "endereco": "Rua das Flores",
+            "fotos": [
+                "faces/faces_cadastradas/Cirilo_classe_Estudante.png",
+                "faces/faces_cadastradas/Cirilo_classe_Estudante_2.jpg",
+                "faces/faces_cadastradas/Cirilo_classe_Estudante_3.jpg"
+            ]
+        },
+        {
+            "codigo": "pass004",
+            "nome": "Darlene",
+            "tipo": "COMUM",
+            "idade": 25,
+            "sangue": "O+",
+            "endereco": "Rua das Cenouras",
+            "fotos": [
+                "faces/faces_cadastradas/Darlene_classe_Comum.jpg",
+                "faces/faces_cadastradas/Darlene_classe_Comum_2.jpg",
+                "faces/faces_cadastradas/Darlene_classe_Comum_3.jpg"
+            ]
+        },
+        {
+            "codigo": "pass005",
+            "nome": "Eliot",
+            "tipo": "COMUM",
+            "idade": 25,
+            "sangue": "O+",
+            "endereco": "Rua das Batatas",
+            "fotos": [
+                "faces/faces_cadastradas/Eliot_classe_Comum.jpg",
+                "faces/faces_cadastradas/Eliot_classe_Comum_2.jpg",
+                "faces/faces_cadastradas/Eliot_classe_Comum_3.jpg"
+            ]
+        },
+        {
+            "codigo": "pass006",
+            "nome": "Valéria",
+            "tipo": "ESTUDANTE",
+            "idade": 10,
+            "sangue": "O+",
+            "endereco": "Rua das Bananas",
+            "fotos": [
+                "faces/faces_cadastradas/Valeria_classe_Estudante.jpg",
+                "faces/faces_cadastradas/Valeria_classe_Estudante_2.JPG",
+                "faces/faces_cadastradas/Valeria_classe_Estudante_3.jpg"
+            ]
+        }
+    ]
+}
